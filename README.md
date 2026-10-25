@@ -1,2 +1,5 @@
-# TAKAFUL-SURVIVAL-V1
-GAME PADU UKM V1 
+# Takaful Survival
+
+Simulasi pendidikan Insurance & Takaful (UKM).
+
+GitHub Pages: Settings > Pages > Deploy from branch > main / (root).
